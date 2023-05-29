@@ -186,15 +186,3 @@ plt.title('Training and Validation Accuracy')
 plt.legend()
 plt.show()
 
-# Commented out IPython magic to ensure Python compatibility.
-# %cd /content/drive/My Drive/Colabdata/
-!git clone https://github.com/shimeon1223/conv.git
-
-!git config --global user.email "sota.nakatsu.2c@stu.hosei.ac.jp"
-
-!git config --global user.name "shimeon1223"
-
-!git init
-
-!git add conv.ipynb
-
